@@ -2,6 +2,7 @@
 `TinyLlama/TinyLlama-1.1B-Chat-v0.6`をMoEにして試したものです。
 Geforce 2080Tiでとりあえず動くようにしてあります。
 # やり方
+ロギングにazure-mlを使用しているので要修正です。
 ```
 tar xvf o2chcorpus.tar.xz 
 
